@@ -33,3 +33,8 @@ end
 def retrieve_last_element_from_array(array)
   
 end
+
+def create_an_empty_array
+  []
+end
+Run the test su
